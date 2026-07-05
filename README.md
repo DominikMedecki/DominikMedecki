@@ -27,39 +27,21 @@ My interest in cybersecurity began with online multiplayer gaming, where I first
   <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 
-### 🐧 Systems & Linux
+## 🧰 Core Skills & Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux" />
+<p align="center">
+
+<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux" />
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/Bash-grey?style=for-the-badge&logo=gnubash" />
+
+<img src="https://img.shields.io/badge/Networking-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge" />
+
 </p>
-
----
-
-### 🌐 Networking & Recon
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Networking-red?style=for-the-badge" />
-</p>
-
----
-
-### 🧪 Offensive Security Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge" />
-</p>
-
----
-
-### 🐍 Scripting & Automation
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Bash-grey?style=for-the-badge&logo=gnubash" />
-</p>
-
 ## 🧠 What I’m Working On
 
 - 🧪 Daily CTF practice (web exploitation, privilege escalation, enumeration)
