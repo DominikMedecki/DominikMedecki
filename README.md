@@ -41,7 +41,10 @@ My interest in cybersecurity began with online multiplayer gaming, where I first
 <img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge" />
 
 Tryhackme rank here implemented later 
-(https://github-readme-stats.vercel.app/api?DominikMedecki=anuraghazra&theme=dark&show_icons=true)
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=DominikMedecki&show_icons=true&theme=radical&hide_border=true" />
+
 </p>
 ## 🧠 What I’m Working On
 
