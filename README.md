@@ -66,17 +66,23 @@ My interest in cybersecurity began with online multiplayer gaming, where I first
 - 🧠 Constantly improving offensive security fundamentals
 
 ---
-<p align="left">
-  <span style="color:#00ff66; font-family:monospace;">
-    ░▒▓ CYBER SEC LINKS ▓▒░
-  </span>
+## 🌐 Connect with Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/dominik-medecki-a39802207/">
+  <img src="https://img.shields.io/badge/LinkedIn-00ff66?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
+
+<a href="https://tryhackme.com/p/NeeedHD">
+  <img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=00ff66"/>
+</a>
+
+<a href="https://github.com/DominikMedecki">
+  <img src="https://img.shields.io/badge/GitHub-001a00?style=for-the-badge&logo=github&logoColor=00ff66"/>
+</a>
+
 </p>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00ff66?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/dominik-medecki-a39802207/)
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=00ff66)](https://tryhackme.com/p/NeeedHD)
-
-[![GitHub](https://img.shields.io/badge/GitHub-001a00?style=for-the-badge&logo=github&logoColor=00ff66)](https://github.com/DominikMedecki)
 
 ---
 
