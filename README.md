@@ -27,7 +27,7 @@ My interest in cybersecurity began with online multiplayer gaming, where I first
   <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 
-## 🧰 Core Skills & Tools
+## 🧰 Languages & Tools
 
 <p align="center">
 
