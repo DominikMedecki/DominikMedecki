@@ -30,7 +30,6 @@ My interest in cybersecurity began with online multiplayer gaming, where I first
 ## 🧰 Languages & Tools
 
 <p align="center">
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux" />
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
 <img src="https://img.shields.io/badge/Bash-grey?style=for-the-badge&logo=gnubash" />
