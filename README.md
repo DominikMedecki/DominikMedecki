@@ -27,12 +27,37 @@ My interest in cybersecurity began with online multiplayer gaming, where I first
   <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 
-</p>
-### 💻 Core Skills
+## 🧰 Core Skills & Capabilities
+
+> Offensive security fundamentals focused on hands-on labs, CTFs, and real-world attack simulation.
+
+---
+
+### 🐧 Systems & Linux
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+
+Linux navigation • permissions • process management • system enumeration
+
+---
+
+### 🌐 Networking & Recon
 ![Networking](https://img.shields.io/badge/Networking-red?style=for-the-badge)
-![Bash](https://img.shields.io/badge/Bash-grey?style=for-the-badge&logo=gnubash)
+
+TCP/IP basics • Nmap scanning • service enumeration • traffic analysis fundamentals
+
+---
+
+### 🧪 Offensive Security
+![Pentesting](https://img.shields.io/badge/Pentesting-purple?style=for-the-badge)
+
+Vulnerability discovery • web app security basics • privilege escalation concepts • attack surface enumeration
+
+---
+
+### 🐍 Scripting
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+
+Security scripting • automation basics • enumeration tools • exploit logic understanding
 
 ### 🛠️ Security Tools
 ![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
