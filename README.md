@@ -41,6 +41,11 @@ My interest in cybersecurity began with online multiplayer gaming, where I first
 <img src="https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge" />
 
+<a href="https://tryhackme.com/p/NeeedHD">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/NeeedHD.png" />
+</a>
+
+</p>
 </p>
 ## 🧠 What I’m Working On
 
