@@ -16,7 +16,23 @@ I’m a UK-based cybersecurity enthusiast focused on **offensive security, CTFs,
 - 🎯 Goal: Work in offensive security / red team / penetration testing
 - 💻 Regularly active on CTF platforms and labs
 - ⚡ I learn best by breaking things and rebuilding them
+## 🔗 Connect / Live Activity
 
+<p align="center">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <img src="https://img.shields.io/badge/LinkedIn-00ffcc?style=for-the-badge&logo=linkedin&logoColor=black" />
+</a>
+
+<a href="https://tryhackme.com/p/YOURUSERNAME">
+  <img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/DominikMedecki">
+  <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+
+</p>
 ---
 
 ## 🧰 Tech Stack & Tools
