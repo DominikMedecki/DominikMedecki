@@ -9,11 +9,12 @@
 ---
 ## 👋 About Me
 
-I’m a UK-based cybersecurity enthusiast focused on **offensive security, CTFs, and hands-on ethical hacking**.
+I'm a dedicated and goal-driven cybersecurity enthusiast focused on building a career in **penetration testing and offensive security**.
+My interest in cybersecurity began with online multiplayer gaming, where I first encountered attacks such as DDoS. That curiosity pushed me to understand how systems are exploited, how to defend against them, and eventually how attackers think from a red team perspective. Today, I'm actively building hands-on experience through cybersecurity labs, Python projects, and technical write-ups as I work towards becoming a professional penetration tester.
 
 - 🔐 Passionate about penetration testing & defensive security
 - 🧠 Currently learning: Python, networking, Linux internals
-- 🎯 Goal: Work in offensive security / red team / penetration testing
+- 🎯 Goal: Work in offensive security / red team/penetration testing
 - 💻 Regularly active on CTF platforms and labs
 - ⚡ I learn best by breaking things and rebuilding them
 ## 🔗 Connect / Live Activity
@@ -33,8 +34,6 @@ I’m a UK-based cybersecurity enthusiast focused on **offensive security, CTFs,
 </a>
 
 </p>
----
-
 ## 🧰 Tech Stack & Tools
 
 ### 💻 Core Skills
