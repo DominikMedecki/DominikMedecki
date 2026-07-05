@@ -26,65 +26,44 @@ My interest in cybersecurity began with online multiplayer gaming, where I first
 <a href="https://github.com/DominikMedecki">
   <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" />
 </a>
+## 🧰 Core Skills & Tools
 
-## 🧰 Core Skills & Capabilities
-
-> Offensive security fundamentals focused on hands-on labs, CTFs, and real-world attack simulation.
+> A practical offensive security toolkit built through labs, CTFs, and hands-on experimentation.
 
 ---
 
 ### 🐧 Systems & Linux
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 
-Linux navigation • permissions • process management • system enumeration
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux" />
+</p>
 
 ---
 
 ### 🌐 Networking & Recon
-![Networking](https://img.shields.io/badge/Networking-red?style=for-the-badge)
 
-TCP/IP basics • Nmap scanning • service enumeration • traffic analysis fundamentals
-
----
-
-### 🧪 Offensive Security
-![Pentesting](https://img.shields.io/badge/Pentesting-purple?style=for-the-badge)
-
-Vulnerability discovery • web app security basics • privilege escalation concepts • attack surface enumeration
+<p align="left">
+  <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Networking-red?style=for-the-badge" />
+</p>
 
 ---
 
-### 🐍 Scripting
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+### 🧪 Offensive Security Tools
 
-Security scripting • automation basics • enumeration tools • exploit logic understanding
-
-### 🛠️ Security Tools
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge)
+<p align="left">
+  <img src="https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge" />
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+### 🐍 Scripting & Automation
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DominikMedecki&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DominikMedecki&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DominikMedecki&theme=react-dark)
-
----
-
-## 🛡️ TryHackMe Progress
-
-:contentReference[oaicite:0]{index=0} is where I sharpen my offensive security skills:
-
-<a href="https://tryhackme.com/p/YOURUSERNAME">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/YOURUSERNAME.png" />
-</a>
-
----
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Bash-grey?style=for-the-badge&logo=gnubash" />
+</p>
 
 ## 🧠 What I’m Working On
 
