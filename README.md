@@ -11,20 +11,20 @@
 I'm a dedicated and goal-driven cybersecurity enthusiast focused on building a career in **penetration testing and offensive security**.
 My interest in cybersecurity began with online multiplayer gaming, where I first encountered attacks such as DDoS. That curiosity pushed me to understand how systems are exploited, how to defend against them, and eventually how attackers think from a red team perspective. Today, I'm actively building hands-on experience through cybersecurity labs, Python projects, and technical write-ups as I work towards becoming a professional penetration tester.
 
-## 🔗 Connect / Live Activity
+## 🌐 Connect with Me
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-  <img src="https://img.shields.io/badge/LinkedIn-00ffcc?style=for-the-badge&logo=linkedin&logoColor=black" />
+<a href="https://www.linkedin.com/in/dominik-medecki-a39802207/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-00ff66?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
-<a href="https://tryhackme.com/p/NeeedHD">
-  <img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge" />
+<a href="https://tryhackme.com/p/NeeedHD" target="_blank">
+  <img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=00ff66"/>
 </a>
 
-<a href="https://github.com/DominikMedecki">
-  <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" />
+<a href="https://github.com/DominikMedecki" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-001a00?style=for-the-badge&logo=github&logoColor=00ff66"/>
 </a>
 
 ## 🧰 Languages & Tools
