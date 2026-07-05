@@ -75,4 +75,4 @@ My interest in cybersecurity began with online multiplayer gaming, where I first
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:001a00,100:000000&section=footer&fontColor=00ff66"/>
