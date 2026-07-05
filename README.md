@@ -3,7 +3,6 @@
 <p align="center">
   <b>Cybersecurity | Penetration Testing | CTF Enthusiast</b>
 </p>
-
 <p align="center">
   Breaking systems • Understanding attackers • Building defensive awareness
 </p>
