@@ -66,6 +66,11 @@ My interest in cybersecurity began with online multiplayer gaming, where I first
 - 🧠 Constantly improving offensive security fundamentals
 
 ---
+<p align="left">
+  <span style="color:#00ff66; font-family:monospace;">
+    ░▒▓ CYBER SEC LINKS ▓▒░
+  </span>
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00ff66?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/dominik-medecki-a39802207/)
 
