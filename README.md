@@ -1,108 +1,81 @@
-# 👋 Hi, I'm Dominik 
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=220&section=header&text=Dominik%20Medecki&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 
-I'm a dedicated and goal-driven cybersecurity enthusiast focused on building a career in **penetration testing and offensive security**.
+# 🛡️ Cybersecurity Enthusiast | CTF Player | Aspiring Penetration Tester
 
-My interest in cybersecurity began with online multiplayer gaming, where I first encountered attacks such as DDoS. That curiosity pushed me to understand how systems are exploited, how to defend against them, and eventually how attackers think from a red team perspective.
-
-Today, I'm actively building hands-on experience through cybersecurity labs, Python projects, and technical write-ups as I work towards becoming a professional penetration tester.
-
----
-
-## 🎯 Current Focus
-
-- 🔴 Developing skills in penetration testing (Red Team)
-- 🔵 Learning defensive security and SOC fundamentals
-- 🐍 Building Python cybersecurity tools and automation scripts
-- 📚 Completing TryHackMe learning paths (Top 5,000 globally | 440+ rooms completed)
-- 🪖 Preparing for a future cybersecurity career in the military
+> “Breaking systems to understand how to defend them.”
 
 ---
 
-## 🧠 Learning Path
+## 👋 About Me
 
-- TryHackMe: Junior Penetration Tester Path
-- Upcoming: SOC Analyst Path
-- Future: AI Security Path
-- Certifications in progress:
-  - CompTIA Network+
-  - CompTIA Security+
-  - OSCP (long-term goal)
+I’m a UK-based cybersecurity enthusiast focused on **offensive security, CTFs, and hands-on ethical hacking**.
 
----
-
-## 💻 Tech & Tools
-
-### Programming
-- Python
-- JavaScript
-- HTML
-- C++ (basic)
-
-### Cybersecurity Tools
-- Nmap
-- Gobuster
-- Hydra
-- Burp Suite
-- Wireshark
-- Metasploit
-- Hashcat
-- John the Ripper
-- Basic SIEM tools
-
-### Concepts
-- Enumeration
-- Web exploitation
-- Privilege escalation
-- Active Directory basics
-- Log analysis
-- Network fundamentals
+- 🔐 Passionate about penetration testing & defensive security
+- 🧠 Currently learning: Python, networking, Linux internals
+- 🎯 Goal: Work in offensive security / red team / penetration testing
+- 💻 Regularly active on CTF platforms and labs
+- ⚡ I learn best by breaking things and rebuilding them
 
 ---
 
-## 🧪 Projects
+## 🧰 Tech Stack & Tools
 
-I regularly build small cybersecurity-focused projects to reinforce what I learn.
+### 💻 Core Skills
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Networking](https://img.shields.io/badge/Networking-red?style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-grey?style=for-the-badge&logo=gnubash)
 
-Current and upcoming projects:
-
-- 🔍 Port Scanner (Python)
-- 🌐 Network Scanner (Python)
-- 🔐 Password Strength Checker
-- 📁 File Integrity Checker (hash-based monitoring)
-- 📊 Log Analysis Tool (SOC-style detection)
-
-I aim to upload new work **twice per week** as part of my learning progression.
-
----
-
-## 📊 About Me
-
-- 🎓 Graduate in Games Development (University of Brighton)
-- 💼 Working as a gym receptionist
-- 🇬🇧 Based in England
-- 🧩 Naturally curious and driven by problem-solving
-- ⚔️ Strong interest in both attacking and defending systems
-- 🧠 Always learning and working toward the next goal
+### 🛠️ Security Tools
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge)
 
 ---
 
-## 🧭 Long-Term Goal
+## 📊 GitHub Analytics
 
-My long-term ambition is to become a **professional penetration tester**, and eventually build my own cybersecurity company offering offensive security services.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DominikMedecki&show_icons=true&theme=radical&hide_border=true)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DominikMedecki&layout=compact&theme=radical&hide_border=true)
 
-## ⚡ Personal Mindset
-
-> “I think, therefore I question everything.” — inspired by Socrates
-
-I believe cybersecurity is about curiosity, persistence, and constantly challenging assumptions.
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DominikMedecki&theme=react-dark)
 
 ---
 
-## 📫 Connect
+## 🛡️ TryHackMe Progress
 
-- LinkedIn:
-- Email: 
+:contentReference[oaicite:0]{index=0} is where I sharpen my offensive security skills:
+
+<a href="https://tryhackme.com/p/YOURUSERNAME">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/YOURUSERNAME.png" />
+</a>
 
 ---
+
+## 🧠 What I’m Working On
+
+- 🧪 Daily CTF practice (web exploitation, privilege escalation, enumeration)
+- 🔍 Building stronger Linux + networking fundamentals
+- 🛠️ Writing small Python security tools
+- 📚 Documenting everything I learn (notes + GitHub repos)
+
+---
+
+## 🏆 Highlights
+
+- 🧩 Active on TryHackMe labs
+- 🔎 Focused on real-world exploitation techniques
+- 🧠 Constantly improving offensive security fundamentals
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 GitHub: https://github.com/DominikMedecki
+- 🛡️ TryHackMe: https://tryhackme.com/p/YOURUSERNAME
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer"/>
