@@ -26,11 +26,6 @@ My interest in cybersecurity began with online multiplayer gaming, where I first
 <a href="https://github.com/DominikMedecki">
   <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" />
 </a>
-## 🧰 Core Skills & Tools
-
-> A practical offensive security toolkit built through labs, CTFs, and hands-on experimentation.
-
----
 
 ### 🐧 Systems & Linux
 
