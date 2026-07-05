@@ -1,5 +1,5 @@
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,100:1b1f3a&height=260&section=header&text=Dominik%20Medecki&fontSize=44&fontColor=00ffcc&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,100:0f172a&height=80&section=header&text=INITIALISING%20TERMINAL%20INTERFACE&fontSize=20&fontColor=00ffcc" />
 <p align="center">
   <b>Cybersecurity | Penetration Testing | CTF Enthusiast</b>
 </p>
