@@ -40,6 +40,13 @@ My interest in cybersecurity began with online multiplayer gaming, where I first
 <img src="https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge" />
 
+## 📊 LIVE SECURITY METRICS
+
+<p align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DominikMedecki&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff66&icon_color=00ff66)
+
+</p>
 ## 🛡️ Active Security Practice
 
 - 🧠 Daily labs & CTF challenges on TryHackMe  
@@ -64,25 +71,6 @@ My interest in cybersecurity began with online multiplayer gaming, where I first
 - 🧩 Active on TryHackMe labs
 - 🔎 Focused on real-world exploitation techniques
 - 🧠 Constantly improving offensive security fundamentals
-
----
-## 🌐 Connect with Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/dominik-medecki-a39802207/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-00ff66?style=for-the-badge&logo=linkedin&logoColor=black"/>
-</a>
-
-<a href="https://tryhackme.com/p/NeeedHD" target="_blank">
-  <img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=00ff66"/>
-</a>
-
-<a href="https://github.com/DominikMedecki" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-001a00?style=for-the-badge&logo=github&logoColor=00ff66"/>
-</a>
-
-</p>
 
 ---
 
