@@ -1,4 +1,5 @@
 <!-- HEADER BANNER -->
+![Typing SVG](:contentReference[oaicite:0]{index=0})
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,100:0f172a&height=80&section=header&text=INITIALISING%20TERMINAL%20INTERFACE&fontSize=20&fontColor=00ffcc" />
 <p align="center">
   <b>> Offensive Security • CTF Player • Pentesting Enthusiast (UK)</b>
