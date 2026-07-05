@@ -1,6 +1,5 @@
 <!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=soft&height=200&color=0:000000,100:001a00&text=Dominik%20Medecki&fontSize=40&fontColor=00ff66&animation=fadeIn&section=header" />
-<img src="https://capsule-render.vercel.app/api?type=soft&height=200&color=0:000000,100:001a00&text=Dominik%20Medecki&fontSize=40&fontColor=00ff66&animation=fadeIn&section=header"/>
 <p align="center">
   <b>> Offensive Security • CTF Player • Pentesting Enthusiast (UK)</b>
 </p>
