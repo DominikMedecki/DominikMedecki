@@ -6,8 +6,7 @@
 <p align="center">
   Breaking systems • Understanding attackers • Building defensive awareness
 </p>
----
-## 👋 About Me
+👋 About Me
 
 I'm a dedicated and goal-driven cybersecurity enthusiast focused on building a career in **penetration testing and offensive security**.
 My interest in cybersecurity began with online multiplayer gaming, where I first encountered attacks such as DDoS. That curiosity pushed me to understand how systems are exploited, how to defend against them, and eventually how attackers think from a red team perspective. Today, I'm actively building hands-on experience through cybersecurity labs, Python projects, and technical write-ups as I work towards becoming a professional penetration tester.
