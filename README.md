@@ -19,7 +19,7 @@ My interest in cybersecurity began with online multiplayer gaming, where I first
   <img src="https://img.shields.io/badge/LinkedIn-00ffcc?style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
 
-<a href="https://tryhackme.com/p/YOURUSERNAME">
+<a href="https://tryhackme.com/p/NeeedHD">
   <img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge" />
 </a>
 
