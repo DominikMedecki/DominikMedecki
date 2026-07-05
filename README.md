@@ -27,26 +27,20 @@ My interest in cybersecurity began with online multiplayer gaming, where I first
   <img src="https://img.shields.io/badge/GitHub-001a00?style=for-the-badge&logo=github&logoColor=00ff66"/>
 </a>
 
-## 🧰 Languages & Tools
-
-<p align="center">
-<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux" />
-<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
-<img src="https://img.shields.io/badge/Bash-grey?style=for-the-badge&logo=gnubash" />
-
-<img src="https://img.shields.io/badge/Networking-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge" />
-
-## 📊 LIVE SECURITY METRICS
+## 🧠 SECURITY TOOLKIT MATRIX
 
 <p align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DominikMedecki&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff66&icon_color=00ff66)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff66)
+![Kali](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00ff66)
+![Wireshark](https://img.shields.io/badge/Wireshark-001a00?style=for-the-badge&logo=wireshark&logoColor=00ff66)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0a0a0a?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff66)
 
 </p>
+
+
+
 ## 🛡️ Active Security Practice
 
 - 🧠 Daily labs & CTF challenges on TryHackMe  
