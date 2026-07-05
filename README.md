@@ -70,15 +70,15 @@ My interest in cybersecurity began with online multiplayer gaming, where I first
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/dominik-medecki-a39802207/">
+<a href="https://www.linkedin.com/in/dominik-medecki-a39802207/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-00ff66?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
-<a href="https://tryhackme.com/p/NeeedHD">
+<a href="https://tryhackme.com/p/NeeedHD" target="_blank">
   <img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=00ff66"/>
 </a>
 
-<a href="https://github.com/DominikMedecki">
+<a href="https://github.com/DominikMedecki" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-001a00?style=for-the-badge&logo=github&logoColor=00ff66"/>
 </a>
 
