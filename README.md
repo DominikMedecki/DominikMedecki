@@ -1,9 +1,12 @@
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=220&section=header&text=Dominik%20Medecki&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,100:1b1f3a&height=260&section=header&text=Dominik%20Medecki&fontSize=44&fontColor=00ffcc&animation=fadeIn" />
+<p align="center">
+  <b>Cybersecurity | Penetration Testing | CTF Enthusiast</b>
+</p>
 
-# 🛡️ Cybersecurity Enthusiast | CTF Player | Aspiring Penetration Tester
-
-> “Breaking systems to understand how to defend them.”
+<p align="center">
+  Breaking systems • Understanding attackers • Building defensive awareness
+</p>
 
 ---
 
