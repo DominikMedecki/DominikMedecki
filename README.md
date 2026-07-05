@@ -1,7 +1,7 @@
 <!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,100:0f172a&height=80&section=header&text=INITIALISING%20TERMINAL%20INTERFACE&fontSize=20&fontColor=00ffcc" />
 <p align="center">
-  <b>Cybersecurity | Penetration Testing | CTF Enthusiast</b>
+  <b>> Offensive Security • CTF Player • Pentesting Enthusiast (UK)</b>
 </p>
 <p align="center">
   Breaking systems • Understanding attackers • Building defensive awareness
@@ -40,8 +40,14 @@ My interest in cybersecurity began with online multiplayer gaming, where I first
 <img src="https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge" />
 
-TryHackMe rank here implemented later 
+## 🛡️ Active Security Practice
 
+- 🧠 Daily labs & CTF challenges on TryHackMe  
+- 🔍 Focus on enumeration, privilege escalation, and web exploitation  
+- 🧪 Building real-world offensive security workflow understanding
+  <a href="https://tryhackme.com/p/NeeedHD">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/NeeedHD.png" />
+</a>
 
 </p>
 ## 🧠 What I’m Working On
@@ -61,10 +67,11 @@ TryHackMe rank here implemented later
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
-- 🌐 GitHub: https://github.com/DominikMedecki
-- 🛡️ TryHackMe: https://tryhackme.com/p/YOURUSERNAME
+- LinkedIn: (add link)
+- TryHackMe: https://tryhackme.com/p/NeeedHD
+- GitHub: https://github.com/DominikMedecki
 
 ---
 
