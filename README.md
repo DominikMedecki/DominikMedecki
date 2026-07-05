@@ -7,9 +7,7 @@
 <p align="center">
   Breaking systems • Understanding attackers • Building defensive awareness
 </p>
-
 ---
-
 ## 👋 About Me
 
 I’m a UK-based cybersecurity enthusiast focused on **offensive security, CTFs, and hands-on ethical hacking**.
