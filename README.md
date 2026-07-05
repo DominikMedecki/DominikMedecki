@@ -42,6 +42,8 @@ My interest in cybersecurity began with online multiplayer gaming, where I first
 
 Tryhackme rank here implemented later 
 
+## 📊 GitHub Stats
+
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=DominikMedecki" />
