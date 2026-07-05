@@ -39,7 +39,6 @@ My interest in cybersecurity began with online multiplayer gaming, where I first
 
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DominikMedecki&show_icons=true&theme=dark)
 
 ## 🛡️ Active Security Practice
 
