@@ -13,7 +13,7 @@ My interest in cybersecurity began with online multiplayer gaming, where I first
 
 ## 🌐 Connect with Me
 
-<p align="center">
+<p align="left">
 
 <a href="https://www.linkedin.com/in/dominik-medecki-a39802207/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-00ff66?style=for-the-badge&logo=linkedin&logoColor=black"/>
