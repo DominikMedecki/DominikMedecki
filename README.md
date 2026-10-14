@@ -1,78 +1,74 @@
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=soft&height=200&color=0:000000,100:001a00&text=Dominik%20Medecki&fontSize=40&fontColor=00ff66&animation=fadeIn&section=header" />
-<p align="center">
-  Offensive Security • CTF Player • Pentesting Enthusiast (UK)
-</p>
-<p align="center">
-  Breaking systems • Understanding attackers • Building defensive awareness
-</p>
-👋 About Me
+<div align="center">
 
+# Dominik Medecki
 
-## 🌐 Connect with Me
+### Aspiring Cybersecurity Professional
 
-<p align="left">
+Penetration testing  ·  Network security  ·  Python tooling
 
-<a href="https://www.linkedin.com/in/dominik-medecki-a39802207/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-00ff66?style=for-the-badge&logo=linkedin&logoColor=black"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-3A86C8?style=flat-square&labelColor=0D1B2A)](https://www.linkedin.com/in/dominik-medecki-a39802207/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-NeeedHD-3A86C8?style=flat-square&labelColor=0D1B2A)](https://tryhackme.com/p/NeeedHD)
+[![Projects](https://img.shields.io/badge/Repositories-Browse-3A86C8?style=flat-square&labelColor=0D1B2A)](https://github.com/DominikMedecki?tab=repositories)
 
-<a href="https://tryhackme.com/p/NeeedHD" target="_blank">
-  <img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=00ff66"/>
-</a>
-
-<a href="https://github.com/DominikMedecki" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-001a00?style=for-the-badge&logo=github&logoColor=00ff66"/>
-</a>
-
-## 🧠 SECURITY TOOLKIT 
-
-<p align="center">
-
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff66)
-![Kali](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00ff66)
-![Wireshark](https://img.shields.io/badge/Wireshark-001a00?style=for-the-badge&logo=wireshark&logoColor=00ff66)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-0a0a0a?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff66)
-
-</p>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=DominikMedecki&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=DominikMedecki&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DominikMedecki&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## 🛡️ Active Security Practice
-
-- 🧠 Daily labs & CTF challenges on TryHackMe  
-- 🔍 Focus on enumeration, privilege escalation, and web exploitation  
-- 🧪 Building real-world offensive security workflow understanding
-  <a href="https://tryhackme.com/p/NeeedHD">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/NeeedHD.png" />
-</a>
-
-</p>
-## 🧠 What I’m Working On
-
-- 🧪 Daily CTF practice (web exploitation, privilege escalation, enumeration)
-- 🔍 Building stronger Linux + networking fundamentals
-- 🛠️ Writing small Python security tools
-- 📚 Documenting everything I learn (notes + GitHub repos)
+</div>
 
 ---
 
-## 🏆 Highlights
+## About
 
-- 🧩 Active on TryHackMe labs
-- 🔎 Focused on real-world exploitation techniques
-- 🧠 Constantly improving offensive security fundamentals
+I'm building a career in cybersecurity from the ground up: learning how systems are attacked so I can help defend them. I practise daily in legal lab environments, write up my methodology, and build small Python tools to turn what I learn into working code.
+
+**Seeking:** entry-level cybersecurity roles, with a long-term goal of serving in a military cyber role.
+
+> All testing is performed in authorised environments (TryHackMe, my own home lab). I do not test systems I don't own or have permission to assess.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:001a00,100:000000&section=footer&fontColor=00ff66"/>
+## Technical Skills
 
+| Area | Skills & Tools |
+| :--- | :--- |
+| **Offensive security** | Reconnaissance, service enumeration, web application testing, Linux and Windows privilege escalation, CTF challenges |
+| **Tools** | Nmap, Burp Suite, Gobuster, FFUF, Hydra, John the Ripper, Hashcat, Netcat, Wireshark |
+| **Networking** | TCP/IP fundamentals, network services, security concepts (CompTIA Network+ study) |
+| **Programming** | Python (sockets, CLI tools, Streamlit web apps) |
+| **Platforms** | Linux, Kali Linux, Git and GitHub |
+| **Professional practice** | Structured write-ups, methodology documentation, report-style findings |
 
+---
 
+## Featured Projects
 
+| Project | What it does | Stack |
+| :--- | :--- | :--- |
+| [**PyPort Scout**](https://github.com/DominikMedecki/Port-Scanner) | TCP port scanner built in versioned stages, from a basic connect scanner towards a more capable recon utility. Resolves hostnames, reports open ports, and logs scan timestamps. | Python, sockets |
+| [**Password Strength Checker**](https://github.com/DominikMedecki/Password-Strength-Checker) | Web app that scores password strength with zxcvbn, estimates crack time, checks breach exposure through the Have I Been Pwned k-anonymity API, and generates strong passwords. | Python, Streamlit |
+| [**PenTest Notes**](https://github.com/DominikMedecki/PenTest-Notes) | Methodology-driven playbook that follows a real engagement from reconnaissance and enumeration through privilege escalation, lateral movement and reporting. | Markdown |
+| [**TryHackMe Write-ups**](https://github.com/DominikMedecki/Cybersecurity-Write-ups-TryHackMe-rooms-) | Room walkthroughs in a consistent format: recon, enumeration, exploitation, flags, lessons learned. | Markdown |
+| [**Cybersecurity Home Lab**](https://github.com/DominikMedecki/Cybersecurity-Home-Lab-) | Documentation of my home lab used for hands-on security practice. | Documentation |
+| [**CompTIA Network+ Notes**](https://github.com/DominikMedecki/Comp-TIA-Network-Notes-) | Study notes organised by exam domain: concepts, implementation, operations, security, troubleshooting. | Markdown |
+
+---
+
+## Currently
+
+- Working through TryHackMe rooms, focusing on enumeration, privilege escalation and web exploitation
+- Building out PyPort Scout (service detection and multi-threaded scanning are next)
+- Studying for CompTIA Network+
+- Writing up every completed room and lab
+
+---
+
+## TryHackMe
+
+[![TryHackMe badge](https://tryhackme-badges.s3.amazonaws.com/NeeedHD.png)](https://tryhackme.com/p/NeeedHD)
+
+---
+
+<div align="center">
+
+**Open to opportunities and conversations with people in the security community.**
+
+[LinkedIn](https://www.linkedin.com/in/dominik-medecki-a39802207/)  ·  [TryHackMe](https://tryhackme.com/p/NeeedHD)
+
+</div>
