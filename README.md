@@ -2,10 +2,17 @@
   <img src="./assets/header.svg" width="100%" alt="Dominik Medecki Portfolio Banner">
 </div>
 
-
-<a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-<a href="YOUR_TRYHACKME_URL">TryHackMe</a> •
-<a href="YOUR_GITHUB_URL">GitHub</a>
+<p align="center">
+  <a href="YOUR_GITHUB_URL">
+    <img src="./assets/github.svg">
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="./assets/linkedin.svg">
+  </a>
+  <a href="YOUR_TRYHACKME_URL">
+    <img src="./assets/tryhackme.svg">
+  </a>
+</p>
 
 </div>
 
