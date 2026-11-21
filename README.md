@@ -20,6 +20,7 @@ Today, I'm working towards a career in military cybersecurity, with a focus on u
 I enjoy programming most when faced with a problem that requires patience, logical thinking, and persistence. I often compare this to Brazilian Jiu-Jitsu: you're placed in a difficult position, and through analysing the situation, adapting and working through different steps, you find a solution. That's the same mindset I bring to programming and learning new technologies.
 
 I'm currently focused on strengthening my Python and C++ skills, expanding my cybersecurity knowledge, and developing my own virtual home lab to gain more practical experience in support of that goal.
+
 ---
 
 ## Programming Languages
