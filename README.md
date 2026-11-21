@@ -33,7 +33,7 @@ I'm currently focused on strengthening my Python and C++ skills, expanding my cy
 ---
 
 <div align="center">
-  <img src="./assets/technical-skills.svg" width="100%">
+  <img src="./assets/technical-skills-heading.svg" width="100%">
 </div>
 
 ### Programming Languages
