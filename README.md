@@ -25,7 +25,9 @@ I'm currently focused on strengthening my Python and C++ skills, expanding my cy
 
 ---
 
-## 🟢 TECHNICAL SKILLS
+<div align="center">
+  <img src="./assets/technical-skills.svg" width="100%">
+</div>
 
 ### Programming Languages
 
