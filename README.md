@@ -11,7 +11,7 @@
 
 ---
 
-## 🟢 ABOUT ME
+<img src="./assets/about.svg" width="100%" alt="About Me">
 
 My name is Dominik, and I've been passionate about computer science and technology for as long as I can remember. From troubleshooting my PlayStation 2 as a child and fixing faulty cables to writing my first Python program at 15, I've always been fascinated by how things work and how to make them work better.
 
