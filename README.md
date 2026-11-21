@@ -1,10 +1,7 @@
-
-
-<pre>
 <div align="center">
   <img src="./assets/header.svg" width="100%" alt="Dominik Medecki Portfolio Banner">
 </div>
-</pre>
+
 
 <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
 <a href="YOUR_TRYHACKME_URL">TryHackMe</a> •
