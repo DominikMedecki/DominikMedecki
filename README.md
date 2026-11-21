@@ -1,18 +1,9 @@
 
-<div align="center">
 
 <pre>
-┌──────────────────────────────────────────────┐
-│                                              │
-│  > whoami                                    │
-│                                              │
-│  DOMINIK MEDECKI                             │
-│  Computer Science Graduate                  │
-│  Aspiring Cybersecurity Specialist          │
-│                                              │
-│  > cat social_links.txt                      │
-│                                              │
-└──────────────────────────────────────────────┘
+<div align="center">
+  <img src="./assets/header.svg" width="100%" alt="Dominik Medecki Portfolio Banner">
+</div>
 </pre>
 
 <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
