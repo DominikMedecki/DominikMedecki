@@ -1,0 +1,11 @@
+
+<svg width="1000" height="65" viewBox="0 0 1000 65" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1000" height="65" rx="6" fill="#111714"></rect>
+  <rect width="5" height="65" rx="2" fill="#39FF14"></rect>
+  <text x="25" y="41" fill="#39FF14" font-family="monospace" font-size="25" font-weight="bold">
+    01 / ABOUT ME
+  </text>
+  <text x="970" y="39" fill="#647568" font-family="monospace" font-size="13" text-anchor="end">
+    INTRODUCTION
+  </text>
+</svg>
