@@ -33,15 +33,8 @@ I'm currently focused on strengthening my Python and C++ skills, expanding my cy
 ---
 
 <div align="center">
-  <img src="./assets/technical-skills-heading.svg" width="100%">
+  <img src="./assets/technical-skills.svg" width="100%">
 </div>
-
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### Tools & Technologies
 
