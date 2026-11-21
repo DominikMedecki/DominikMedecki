@@ -1,16 +1,38 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**DominikMedecki/DominikMedecki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# DOMINIK MEDECKI
 
-Here are some ideas to get you started:
+### Computer Science Graduate | Aspiring Cybersecurity Specialist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[GitHub](YOUR_LINK) • [LinkedIn](YOUR_LINK) • [TryHackMe](YOUR_LINK)
+
+</div>
+
+---
+
+## About Me
+
+Your introduction goes here...
+
+---
+
+## Programming Languages
+
+Your programming language statistics go here...
+
+---
+
+## My Repositories
+
+<table>
+<tr>
+<td width="50%">
+<h3>Repository 1</h3>
+<p>Project description</p>
+</td>
+<td width="50%">
+<h3>Repository 2</h3>
+<p>Project description</p>
+</td>
+</tr>
+</table>
