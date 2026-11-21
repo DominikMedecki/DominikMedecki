@@ -122,5 +122,3 @@ Project description.
 **Always Learning. Always Building.**
 
 </div>
-
-
