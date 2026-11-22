@@ -1,29 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240">
+  <rect width="1000" height="240" rx="12" fill="#111820"/>
+  <rect x="1" y="1" width="998" height="238" rx="12" fill="none" stroke="#263746"/>
 
-<svg width="1000" height="240" viewBox="0 0 1000 240" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1000" height="240" rx="12" fill="#0B0F0D"></rect>
-  <rect x="1" y="1" width="998" height="238" rx="12" fill="none" stroke="#39FF14" stroke-opacity="0.6"></rect>
+  <circle cx="25" cy="22" r="6" fill="#39D98A"/>
+  <circle cx="45" cy="22" r="6" fill="#2B3B49"/>
+  <circle cx="65" cy="22" r="6" fill="#647568"/>
 
-  <circle cx="25" cy="22" r="6" fill="#FF5F57"></circle>
-  <circle cx="45" cy="22" r="6" fill="#FEBC2E"></circle>
-  <circle cx="65" cy="22" r="6" fill="#28C840"></circle>
-
-  <text x="90" y="27" fill="#8B9B8E" font-family="monospace" font-size="13">
+  <text x="90" y="27" fill="#8093A3" font-family="monospace" font-size="13">
     dominik@portfolio: ~
   </text>
 
-  <text x="55" y="85" fill="#39FF14" font-family="monospace" font-size="17">
+  <text x="55" y="85" fill="#39D98A" font-family="monospace" font-size="17">
     root@dominik:~$ whoami
   </text>
 
-  <text x="55" y="145" fill="#39FF14" font-family="monospace" font-size="43" font-weight="bold">
+  <text x="55" y="145" fill="#39D98A" font-family="monospace" font-size="43" font-weight="bold">
     DOMINIK MEDECKI
   </text>
 
-  <text x="57" y="180" fill="#D1D5D2" font-family="monospace" font-size="17">
+  <text x="57" y="180" fill="#F1F5F9" font-family="monospace" font-size="17">
     COMPUTER SCIENCE | PROGRAMMING | CYBERSECURITY
   </text>
 
-  <text x="55" y="215" fill="#39FF14" font-family="monospace" font-size="13">
+  <text x="55" y="215" fill="#39D98A" font-family="monospace" font-size="13">
     [ SYSTEM INITIALISED ]
   </text>
 </svg>
